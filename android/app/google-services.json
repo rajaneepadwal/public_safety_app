@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408659937482",
+    "project_id": "publicsafetyapp-e0fda",
+    "storage_bucket": "publicsafetyapp-e0fda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408659937482:android:2ca99280a5b1aa47094c33",
+        "android_client_info": {
+          "package_name": "com.example.public_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsh2FKrFyU8-cciOBo1B7dPu1YKqhIJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
